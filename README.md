@@ -8,9 +8,9 @@
   <p>
  👀 I'm currently studying in the Chinese University of Hong Kong, Shenzhen<br />
   </p>
-  <p>
+<!--   <p>
  🔭 I’m a member of Artificial Intelligence and Robotics for Society Laboratory  <br />
-  </p>
+  </p> -->
    <p>
  🌱 I’m currently learning UAV, PX4, MAVROS...  <br />
       </p>
