@@ -17,9 +17,6 @@
        <p>
  📫 Email: 121090517@link.cuhk.edu.cn  <br />
           </p>
-           <p>
- 😄 Hobby: Singer JAY Chou  <br />
-  </p>
   
 </div>
 <div align='center'> 
